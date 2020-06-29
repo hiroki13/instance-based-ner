@@ -9,6 +9,7 @@ This codebase is partially based on [neural_sequence_labeling](https://github.co
 * Conference paper: https://www.aclweb.org/anthology/2020.acl-main.575/
 * arXiv version: https://arxiv.org/abs/2004.14514
 
+```
 @inproceedings{ouchi-etal-2020-instance,
     title = "Instance-Based Learning of Span Representations: A Case Study through Named Entity Recognition",
     author = "Ouchi, Hiroki  and
@@ -27,6 +28,7 @@ This codebase is partially based on [neural_sequence_labeling](https://github.co
     pages = "6452--6459",
     abstract = "Interpretable rationales for model predictions play a critical role in practical applications. In this study, we develop models possessing interpretable inference process for structured prediction. Specifically, we present a method of instance-based learning that learns similarities between spans. At inference time, each span is assigned a class label based on its similar spans in the training set, where it is easy to understand how much each training instance contributes to the predictions. Through empirical analysis on named entity recognition, we demonstrate that our method enables to build models that have high interpretability without sacrificing performance.",
 }
+```
 
 ## Prerequisites
 * [python3](https://www.python.org/downloads/)
