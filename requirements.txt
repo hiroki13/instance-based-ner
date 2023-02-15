@@ -16,4 +16,4 @@ tensorflow-gpu==1.10.0
 termcolor==1.1.0
 tqdm==4.32.1
 ujson==1.35
-Werkzeug==0.15.4
+Werkzeug==2.2.3
